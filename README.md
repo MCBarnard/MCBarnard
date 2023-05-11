@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @MCBarnard
 - 👀 I’m interested in anything technical, I enjoy learning new skills and building cool projects. Checkout my portfolio site https://thinus-portfolio.web.app/#
-- 🌱 I’m currently working full time as a frontend engineer at GenEx institute and always on the lookout for cool new tech.
+- 🌱 I’m currently working full time as a software engineer at iKhokha and always on the lookout for cool new tech.
 - 📫 Reach out to me on LinkedIn for any questions (https://www.linkedin.com/in/thinus-barnard-b03258169) or email me (thinusplanb97@gmail.com)
